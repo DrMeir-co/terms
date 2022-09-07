@@ -6,7 +6,7 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The purchase includes all future additions to the course.
 
-* All refund request must be made within *7 days* of the original purchase by pressing the Feedback button and sending an email to the addressed specified in the resulting pop-up message. After 7 days, the purchase is final and cannot be refunded.
+* All refund requests must be made within *7 days* of the original purchase by pressing the Feedback button and sending an email to the addressed specified in the resulting pop-up message. After 7 days, the purchase is final and cannot be refunded.
 
 * As an exception to the above 7-day refund rule, should the author quit developing the course, the refund will be issued automatically.
 
