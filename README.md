@@ -1,6 +1,6 @@
-# Terms and Conditions for the course "From Zero to Thinking as a Programmer & Coding in Python" at [DrMeir.co](https:://DrMeir.co/#/)
+# Terms and Conditions for Part 1 of the course "From Zero to Thinking as a Programmer & Coding in Python" at [DrMeir.co](https:://DrMeir.co/#/)
 
-The following terms and conditions apply when you purchase a part of the course "From Zero to Thinking as a Programmer & Coding in Python" at [DrMeir.co](https:://DrMeir.co/#/):
+The following terms and conditions apply when you purchase Part 1 of the course "From Zero to Thinking as a Programmer & Coding in Python" at [DrMeir.co](https:://DrMeir.co/#/), termed *the course* hereafter:
 
 * The purchase is made with the full knowledge that the course is currently in development, after previewing the course to find out how much of the course is currently available. All units currently unavailable are marked with the "tools" icon.
 
