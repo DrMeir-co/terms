@@ -20,6 +20,6 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The course relies on third-party services, such as Vimeo and Coding Rooms. Should any of the third-party services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the aforementioned 7-day refund policy and 6-months availability policy.
 
-Revised: Sept. 7, 2022 at 8:55 AM UTC.
+Revised: Sept. 7, 2022 at 8:57 AM UTC.
 
-If you purchased the course prior to the last revision, your purchase is governed by the terms and conditions at the time of your purchase. You may see it in the version history in this repository. 
+If you purchased the course prior to the last revision, your purchase is governed by the terms and conditions at the time of your purchase. These terms are available through the version history in this repository. 
