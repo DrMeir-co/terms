@@ -18,7 +18,7 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The course will be available for at least *6 months* following the purchase.
 
-* The course relies on third-party services, such as Vimeo and Coding Rooms. Should any of the third-party services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the aforementioned 7-day refund policy and the 6-months availability policy.
+* The course relies on third-party services, such as Vimeo and Coding Rooms. Should any of the third-party services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the aforementioned 7-day refund policy and 6-months availability policy.
 
 Revised: September 9th, 2022 at 8:00 AM UTC.
 
