@@ -12,7 +12,7 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The course is offered as a separate product. Purchasing the course does not obligate the author to produce the follow-up parts. The price of the purchase of the course does not put any restrictions on the price of the follow-up parts.
 
-* The *purpose of the course* is to be a *resource* for learning to think as a programmer, while using programming in Python as an example. The author does not guarantee being successful at job interview, finding employment or any other particular result from taking the course.
+* The *purpose of the course* is to be a *resource* for learning to think as a programmer, while using programming in Python as an example. The author does not guarantee being successful at job interviews, finding employment or any other particular result from taking the course.
 
 * The author reserves the right to make changes to the title, the scope and the table of contents to the course without changing its stated purpose. Such changes will not constitute a reason for refund after the afore-mentioned 7-day period, unless they undermine the above purpose of the course.
 
