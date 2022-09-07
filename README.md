@@ -14,11 +14,11 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The *purpose of the course* is to be a *resource* for learning to think as a programmer, while using programming in Python as an example. The author does not guarantee being successful at job interviews, finding employment or any other particular result from taking the course.
 
-* The author reserves the right to make changes to the title, the scope and the table of contents of the course without changing the aforementioned purpose. Such changes will not constitute a reason for a refund after the aforementioned 7-day period.
+* The author reserves the right to make changes to the title, the scope and the table of contents of the course without changing the purpose stated in the last item. Such changes will not constitute a reason for a refund after the aforementioned 7-day period.
 
 * The course will be available for at least *6 months* following the purchase.
 
-* The course relies on third-party services, such as Vimeo and Coding Rooms. Should any of the third-party services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the 7-day refund policy and the aforementioned 6-months availability policy.
+* The course relies on third-party services, such as Vimeo and Coding Rooms. Should any of the third-party services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the 7-day refund policy and the 6-months availability policy stated in the last item.
 
 Revised: September 9th, 2022 at 8:00 AM UTC.
 
