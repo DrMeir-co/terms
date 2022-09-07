@@ -14,7 +14,7 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * The *purpose of the course* is to be a *resource* for learning to think as a programmer, while using programming in Python as an example. The author does not guarantee being successful at job interviews, finding employment or any other particular result from taking the course.
 
-* The author reserves the right to make changes to the title, the scope and the table of contents of the course without changing the aforementioned purpose. Such changes will not constitute a reason for a refund after the afore-mentioned 7-day period.
+* The author reserves the right to make changes to the title, the scope and the table of contents of the course without changing the aforementioned purpose. Such changes will not constitute a reason for a refund after the aforementioned 7-day period.
 
 * The course will be available for at least *6 months* following the purchase.
 
