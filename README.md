@@ -10,9 +10,7 @@ The following terms and conditions apply when you purchase Part 1 of the course 
 
 * As an exception to the above 7-day refund rule, should the author quit developing the course, the refund will be issued automatically.
 
-* The course consists of parts. Each part is offered as a separate product. 
-
-* Purchasing one part of the course does not obligate the author to produce the follow-up parts. The price of the purchase of one part does not put any restrictions on the price for the follow-up parts.
+* The course is offered as a separate product. Purchasing the course does not obligate the author to produce the follow-up parts. The price of the purchase of the course does not put any restrictions on the price of the follow-up parts.
 
 * The *purpose of the course* is to be a *resource* for learning to think as a programmer, while using programming in Python as an example. The author does not guarantee being successful at job interview, finding employment or any other particular result from taking the course.
 
