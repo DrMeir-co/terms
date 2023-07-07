@@ -6,8 +6,8 @@ The following terms and conditions apply when you purchase the course "From Zero
 
 * The course will be available for at least *six months* following the purchase.
 
-* The course relies on third-party services, such as Bluehost, Vimeo and Coding Rooms. The author of the course will not be held responsible for technical problems related to these services. Furthermore, should any of these services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the aforementioned 7-day refund policy and 6-months availability policy.
+* Some features of the course rely on third-party services. The author of the course will not be held responsible for technical problems related to these services. Furthermore, should any of these services change their terms of service, the corresponding features of the course may become unavailable until an alternative solution is found. The author will not be held responsible for such occurrences. In particular, they will not affect the aforementioned 7-day refund policy and 6-months availability policy.
 
-Revised: March 7, 2023 at 14:32 UTC.
+Revised: July 7, 2023 at 14:32 UTC.
 
 If you purchased the course prior to the last revision, your purchase is governed by the terms and conditions at the time of your purchase. These terms are available through the version history in this repository. 
